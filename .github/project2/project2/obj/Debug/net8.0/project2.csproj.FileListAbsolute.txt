@@ -1,0 +1,8 @@
+D:\project2\.git\project2\project2\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.MvcApplicationPartsAssemblyInfo.cache
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.RazorAssemblyInfo.cache
+D:\project2\.git\project2\project2\obj\Debug\net8.0\project2.RazorAssemblyInfo.cs
